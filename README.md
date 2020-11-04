@@ -39,6 +39,9 @@ python -m spacy download en_core_web_lg
 
 ## Scirpts and How To:
 To download the data: `python data_loader.py`
+
 To preprocess the data and build models: `python data_pipeline.py`
+
 To find the best model basec on computaitonal metrics: `python metrics.py`
+
 To generate analysis based on the best model: `python analysis.py`
