@@ -7,6 +7,8 @@
 
 `result` folder: all model resutls generated from data_pipeline.py
 
+`model` folder: all model artifacts generated from data_pipeline.py
+
 `experiment` folder: all notebooks experiemnts for EDA
 
 ## Saved Model Artifacts
