@@ -21,21 +21,21 @@ Some of the generated results were saved here as a pickle file, to check the sav
 `data_lematized.pkl`: the processed text of all papers
 
 ## Requirement
-pip install BeautifulSoup4
+`pip install BeautifulSoup4`
 
-pip install tqdm
+`pip install tqdm`
 
-pip install nltk
+`pip install nltk`
 
-pip install spacy
+`pip install spacy`
 
-pip install gensim
+`pip install gensim`
 
-pip install pyLDAvis
+`pip install pyLDAvis`
 
-pip install -U tmtoolkit
+`pip install -U tmtoolkit`
 
-python -m spacy download en_core_web_lg
+`python -m spacy download en_core_web_lg`
 
 ## Scirpts and How To:
 To download the data: `python data_loader.py`
