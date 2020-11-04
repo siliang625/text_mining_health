@@ -2,8 +2,11 @@
 
 ## Files and Folders Information
 `search_term_1.csv`: key search terms provided by public health domain experts
+
 `data` folder: data used for training
+
 `result` folder: all model resutls generated from data_pipeline.py
+
 `experiment` folder: all notebooks experiemnts for EDA
 
 ## Saved Model Artifacts
