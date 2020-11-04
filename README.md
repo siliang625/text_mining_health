@@ -11,19 +11,30 @@
 
 ## Saved Model Artifacts
 Some of the generated results were saved here as a pickle file, to check the saved resutls, simply load the pkl file in the scripts:
+
 `pub_datas.pkl`: the publication year for all papers
+
 `metadata.pkl`: the metadata(reference count, pmc_id, etc) of all papers
+
 `abstracts.pkl`: the abstract of all papers
+
 `data_lematized.pkl`: the processed text of all papers
 
 ## Requirement
 pip install BeautifulSoup4
+
 pip install tqdm
+
 pip install nltk
+
 pip install spacy
+
 pip install gensim
+
 pip install pyLDAvis
+
 pip install -U tmtoolkit
+
 python -m spacy download en_core_web_lg
 
 ## Scirpts and How To:
